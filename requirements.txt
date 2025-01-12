@@ -1,5 +1,5 @@
 # /requirements.txt
 
 flask==3.0.3
-beautifulsoup4==4.11.1
+beautifulsoup4==4.12.3
 # other required dependencies

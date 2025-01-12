@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 app = Flask(__name__)
 
 @app.route('/')
-
 def main():
 
     url = 'https://robinhood.com/us/en/crypto/BONK/'
