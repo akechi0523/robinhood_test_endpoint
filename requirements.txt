@@ -1,0 +1,5 @@
+# /requirements.txt
+
+flask==3.0.3
+beautifulsoup4==4.11.1
+# other required dependencies
